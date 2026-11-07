@@ -10,7 +10,7 @@
 
 Soy estudiante de Ingeniería en Computación en la ESPOL y lo que más disfruto de esta carrera es ver cómo una idea se convierte en algo que funciona. Me gusta entender cómo están hechas las cosas por dentro: desde la lógica de un algoritmo hasta la forma en que una página web llega a la pantalla de alguien.
 
-Durante mi formación he trabajado con programación, algoritmos, estructuras de datos, programación orientada a objetos, bases de datos y desarrollo web, y los he aplicado en proyectos universitarios. También he diseñado interfaces y prototipos en Figma, aplicando lo visto en Interacción Humano-Computador. También uso Git y GitHub para llevar el control de versiones. Sigo afianzando JavaScript y CSS, y estoy aprendiendo TypeScript, React y Go.
+Durante mi formación he trabajado con programación, algoritmos, estructuras de datos, programación orientada a objetos, bases de datos y desarrollo web, y los he aplicado en proyectos universitarios. También he diseñado interfaces y prototipos en Figma, aplicando lo visto en Interacción Humano-Computador. Además, uso Git y GitHub para llevar el control de versiones. Sigo afianzando JavaScript y CSS, y estoy aprendiendo TypeScript, React y Go.
 
 Estas experiencias me han enseñado a:
 
@@ -70,7 +70,7 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 | **CSS** (estilos) | Dar estilo y diseño adaptable a páginas web con Flexbox y Grid. | Aplicado en proyectos, afianzando |
 | **SQL** (consulta) | Crear y consultar bases de datos relacionales en MySQL: tablas, relaciones y consultas. | Usado en proyectos del curso |
 
-### Herramientas, frameworks y librerías.
+### Herramientas, frameworks y librerías
 
 | Herramienta | Para qué la uso | Estado |
 |-------------|-----------------|--------|
@@ -105,4 +105,10 @@ _En construcción._
 
 ## 📫 Contacto
 
-_En construcción._
+| Canal | Enlace |
+|-------|--------|
+| 💼 LinkedIn | [Mi perfil de LinkedIn](https://www.linkedin.com/in/f%C3%A1tima-torres-68475230b) |
+| 📧 Correo institucional | [fativera@espol.edu.ec](mailto:fativera@espol.edu.ec) |
+| 📍 Ubicación | Milagro, Ecuador |
+
+*Disponible para prácticas preprofesionales, primer empleo y proyectos freelance.*
