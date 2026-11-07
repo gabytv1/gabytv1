@@ -32,6 +32,11 @@ Estas experiencias me han enseñado a:
 
 Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos **freelance** donde pueda aplicar lo que he aprendido, ganar experiencia real y seguir creciendo en el área tecnológica.
 
+### 🌎 Idiomas
+
+- **Español:** nativo
+- **Inglés:** B2 (intermedio alto)
+
 ## 🎯 Áreas de interés
 
 - 🌐 **Desarrollo full stack:** me interesa trabajar tanto la parte visible de una aplicación (interfaz, diseño, experiencia de uso) como la parte que no se ve (lógica, bases de datos, servidores). Es el área en la que más me quiero formar.
