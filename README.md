@@ -70,9 +70,18 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 | **CSS** (estilos) | Dar estilo y diseño adaptable a páginas web con Flexbox y Grid. | Aplicado en proyectos, afianzando |
 | **SQL** (consulta) | Crear y consultar bases de datos relacionales en MySQL: tablas, relaciones y consultas. | Usado en proyectos del curso |
 
-### Herramientas
+### Herramientas, frameworks y librerías.
 
-_En construcción._
+| Herramienta | Para qué la uso | Estado |
+|-------------|-----------------|--------|
+| **Git y GitHub** | Control de versiones y repositorios de mis proyectos. | Uso frecuente |
+| **React** | Biblioteca de JavaScript para construir interfaces web con componentes. | 🌱 En aprendizaje |
+| **MySQL** | Bases de datos relacionales. | Usado en proyectos del curso |
+| **Figma** | Prototipos de interfaces antes de programarlas. | Usado en proyectos del curso |
+| **VS Code** | Entorno para escribir y depurar código. | Uso frecuente |
+| **Android Studio** | Entorno de desarrollo para aplicaciones Android. | Usado en el curso |
+| **GitHub Pages** | Publicar sitios web estáticos. | Usado en el curso |
+| **Linux y terminal** | Trabajar desde la línea de comandos. | Usado en el curso |
 
 ### Conceptos y fundamentos
 
