@@ -83,17 +83,25 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 | **GitHub Pages** | Publicar sitios web estáticos. | Usado en el curso |
 | **Linux y terminal** | Trabajar desde la línea de comandos. | Usado en el curso |
 
-### Conceptos y fundamentos
-
-_En construcción._
-
 ## 🚀 Proyectos destacados
 
 _En construcción._
 
 ## 🏁 Metas
 
-_En construcción._
+**🎯 Corto plazo**
+- Realizar prácticas preprofesionales y ganar experiencia real.
+- Avanzar en Go y React.
+- Sumar proyectos al portafolio con buena documentación.
+
+**🧭 Mediano plazo**
+- Culminar Ingeniería en Computación en la ESPOL.
+- Conseguir mi primer empleo o proyectos freelance en desarrollo de software.
+- Contribuir a proyectos colaborativos.
+
+**🌄 Largo plazo**
+- Cursar una maestría.
+- Desarrollar aplicaciones full stack de gran impacto.
 
 ## 📫 Contacto
 
