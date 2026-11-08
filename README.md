@@ -1,6 +1,8 @@
 ![Fátima Torres, estudiante de Ingeniería en Computación, ESPOL](https://capsule-render.vercel.app/api?type=waving&color=0:C8B3FF,55:C8B3FF,100:A8E6CF&height=280&section=header&text=F%C3%A1tima+Torres&fontSize=60&fontColor=3B2A6B&fontAlign=50&fontAlignY=34&desc=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n+%C2%B7+ESPOL&descSize=28&descAlign=50&descAlignY=56&animation=twinkling)
 
-![Aprendiendo a crear soluciones con tecnología](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Aprendiendo+a+crear+soluciones+con+tecnolog%C3%ADa)
+| ![Aprendiendo a crear soluciones con tecnología](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&repeat=false&width=600&height=40&lines=Aprendiendo+a+crear+soluciones+con+tecnolog%C3%ADa) |
+|:---:|
+| [![LinkedIn](https://img.shields.io/badge/%F0%9F%92%9C_Conectemos-LinkedIn-C8B3FF?style=flat&labelColor=FFE4F1)](https://www.linkedin.com/in/f%C3%A1tima-torres-68475230b) [![Correo](https://img.shields.io/badge/%F0%9F%92%8C_Escr%C3%ADbeme-fativera%40espol.edu.ec-C8B3FF?style=flat&labelColor=FFE4F1)](mailto:fativera@espol.edu.ec) ![Disponible para prácticas y primer empleo](https://img.shields.io/badge/%F0%9F%8C%B1_Disponible_para-pr%C3%A1cticas_y_primer_empleo-A8E6CF?style=flat&labelColor=FFE4F1) |
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=C8B3FF&height=4)
 
