@@ -1,12 +1,12 @@
-![Fátima Torres, estudiante de Ingeniería en Computación, Milagro, Ecuador](https://capsule-render.vercel.app/api?type=waving&color=0:C8B3FF,55:C8B3FF,100:A8E6CF&height=280&section=header&text=F%C3%A1tima+Torres&fontSize=60&fontColor=3B2A6B&fontAlign=50&fontAlignY=34&desc=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n+%C2%B7+Milagro%2C+Ecuador&descSize=26&descAlign=50&descAlignY=56&animation=twinkling)
+![Fátima Torres, estudiante de Ingeniería en Computación, ESPOL](https://capsule-render.vercel.app/api?type=waving&color=0:C8B3FF,55:C8B3FF,100:A8E6CF&height=280&section=header&text=F%C3%A1tima+Torres&fontSize=60&fontColor=3B2A6B&fontAlign=50&fontAlignY=34&desc=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n+%C2%B7+ESPOL&descSize=28&descAlign=50&descAlignY=56&animation=twinkling)
 
-![Aprendiendo a crear soluciones con tecnología.](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=7F5AF0&vCenter=true&repeat=false&width=520&height=40&lines=Aprendiendo+a+crear+soluciones+con+tecnolog%C3%ADa)
+![Aprendiendo a crear soluciones con tecnología](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Aprendiendo+a+crear+soluciones+con+tecnolog%C3%ADa)
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=C8B3FF&height=4)
 
 ## 🌱 Sobre mí
 
-Soy estudiante de Ingeniería en Computación en la ESPOL y lo que más disfruto de esta carrera es ver cómo una idea se convierte en algo que funciona. Me gusta entender cómo están hechas las cosas por dentro: desde la lógica de un algoritmo hasta la forma en que una página web llega a la pantalla de alguien.
+Soy estudiante de **Ingeniería en Ciencias de la Computación** en la **Escuela Superior Politécnica del Litoral** (ESPOL), Guayaquil, y lo que más disfruto de esta carrera es ver cómo una idea se convierte en algo que funciona. Me gusta entender cómo están hechas las cosas por dentro: desde la lógica de un algoritmo hasta la forma en que una página web llega a la pantalla de alguien.
 
 Durante mi formación he trabajado con programación, algoritmos, estructuras de datos, programación orientada a objetos, bases de datos y desarrollo web, y los he aplicado en proyectos universitarios. También he diseñado interfaces y prototipos en Figma, aplicando lo visto en Interacción Humano-Computador. Además, uso Git y GitHub para llevar el control de versiones. Sigo afianzando JavaScript y CSS, y estoy aprendiendo TypeScript, React y Go.
 
