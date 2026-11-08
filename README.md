@@ -112,6 +112,13 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 - **Estado:** 🎨 Prototipo UX/UI.
 - 🌐 [Prototipo en Figma](https://www.figma.com/proto/vKVLdQJK4qP8bE2wdEz9tG/Prototipo-completo?node-id=225-1437&starting-point-node-id=157%3A660&t=FNskkYNHAGNW1f64-1)
 
+### 🎭 Explorando la Cultura con la Web: Biblioteca de las Artes
+
+- **Problema o necesidad que resuelve:** La Biblioteca de las Artes es un centro cultural clave del centro de Guayaquil, y sus actividades necesitaban más visibilidad. Este sitio las da a conocer a la comunidad.
+- **Tecnologías utilizadas:** HTML, CSS, plantilla Landed (HTML5 UP), GitHub Pages; investigación de campo con encuestas y entrevistas.
+- **Funcionalidades principales:** Sitio de cuatro páginas con talleres, música, teatro, cine, lectura y charlas, además de información de la Sala Ría y de contacto. Está pensado para ser accesible, con buen contraste y foco visible.
+- 🔗 [Repositorio](https://github.com/CBalla-05/explorando-la-cultura-con-la-web) · 🌐 [Demo](https://cballa-05.github.io/explorando-la-cultura-con-la-web/)
+
 ## 🏁 Metas
 
 **🎯 Corto plazo**
