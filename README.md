@@ -1,3 +1,5 @@
+![](https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=160&section=header)
+
 # Hola, soy Fátima Torres 👋
 
 **Estudiante de Ingeniería en Computación** en la Escuela Superior Politécnica del Litoral (ESPOL)
@@ -5,6 +7,8 @@
 📍 Milagro, Ecuador
 
 *Aprendiendo a crear soluciones con tecnología.*
+
+---
 
 ## 🌱 Sobre mí
 
@@ -37,6 +41,8 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 - **Español:** nativo
 - **Inglés:** B2 (intermedio alto)
 
+---
+
 ## 🎯 Áreas de interés
 
 - 🌐 **Desarrollo full stack:** me interesa trabajar tanto la parte visible de una aplicación (interfaz, diseño, experiencia de uso) como la parte que no se ve (lógica, bases de datos, servidores). Es el área en la que más me quiero formar.
@@ -53,6 +59,8 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 - Escribir **pruebas automáticas** para mi código.
 - Aprender a **desplegar** aplicaciones y a trabajar con contenedores.
 - Profundizar en **seguridad de aplicaciones web**.
+
+---
 
 ## 💻 Tecnologías
 
@@ -92,6 +100,8 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 | **PLY** | Construcción de los analizadores del **Asistente Educativo**. | Aplicado en proyectos |
 | **unittest** | Pruebas automáticas del **Asistente Educativo**. | Aplicado en proyectos |
 
+---
+
 ## 🚀 Proyectos destacados
 
 ### 🚑 Sistema de Rutas de Emergencia
@@ -130,6 +140,8 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 - **Funcionalidades principales:** Analiza código en Go y detecta errores léxicos, sintácticos y semánticos. Explica cada error con un mensaje pensado para principiantes y recomienda cómo corregirlo.
 - 🔗 [Repositorio](https://github.com/gabytv1/Asistente-Educativo-de-Errores-para-Principiantes-en-Go)
 
+---
+
 ## 🏁 Metas
 
 **🎯 Corto plazo**
@@ -146,6 +158,8 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 - Cursar una maestría.
 - Desarrollar aplicaciones full stack de gran impacto.
 
+---
+
 ## 📫 Contacto
 
 | Canal | Enlace |
@@ -155,3 +169,5 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 | 📍 Ubicación | Milagro, Ecuador |
 
 *Disponible para prácticas preprofesionales, primer empleo y proyectos freelance.*
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=120&section=footer)
