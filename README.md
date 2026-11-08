@@ -104,6 +104,14 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 - **Funcionalidades principales:** Perfiles de usuario independientes, control de medicamentos con stock y alertas cuando se agotan, citas médicas con selección de fecha y hora, directorio de médicos, registro de actividad física y notas de salud.
 - 🔗 [Repositorio](https://github.com/gabytv1/MedifitApp-Proyecto-con-Android-Studio)
 
+### 🎓 App Mi Alumni
+
+- **Problema o necesidad que resuelve:** Los graduados de la ESPOL suelen desconectarse de su universidad. Mi Alumni propone un espacio digital para mantener ese vínculo, el networking y la participación en la comunidad.
+- **Tecnologías utilizadas:** Figma, diseño UX/UI, Interacción Humano-Computador, investigación con usuarios.
+- **Funcionalidades principales:** Prototipo interactivo de alta fidelidad con navegación completa y módulos de eventos, noticias y conexión entre exalumnos, diseñado a partir de las necesidades de los usuarios.
+- **Estado:** 🎨 Prototipo UX/UI.
+- 🌐 [Prototipo en Figma](https://www.figma.com/proto/vKVLdQJK4qP8bE2wdEz9tG/Prototipo-completo?node-id=225-1437&starting-point-node-id=157%3A660&t=FNskkYNHAGNW1f64-1)
+
 ## 🏁 Metas
 
 **🎯 Corto plazo**
