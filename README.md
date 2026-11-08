@@ -119,6 +119,13 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 - **Funcionalidades principales:** Sitio de cuatro páginas con talleres, música, teatro, cine, lectura y charlas, además de información de la Sala Ría y de contacto. Está pensado para ser accesible, con buen contraste y foco visible.
 - 🔗 [Repositorio](https://github.com/CBalla-05/explorando-la-cultura-con-la-web) · 🌐 [Demo](https://cballa-05.github.io/explorando-la-cultura-con-la-web/)
 
+### 🧩 Asistente Educativo de Errores para Principiantes en Go
+
+- **Problema o necesidad que resuelve:** Los mensajes de error de los compiladores son técnicos y confusos, y frustran a quien empieza en Go. Este asistente los traduce a explicaciones sencillas.
+- **Tecnologías utilizadas:** Python, PLY, unittest; Go como lenguaje analizado.
+- **Funcionalidades principales:** Analiza código en Go y detecta errores léxicos, sintácticos y semánticos. Explica cada error con un mensaje pensado para principiantes y recomienda cómo corregirlo.
+- 🔗 [Repositorio](https://github.com/gabytv1/Asistente-Educativo-de-Errores-para-Principiantes-en-Go)
+
 ## 🏁 Metas
 
 **🎯 Corto plazo**
