@@ -97,6 +97,13 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 - **Funcionalidades principales:** Descarga la red vial desde OpenStreetMap, la modela como un grafo, aplica Floyd-Warshall para hallar las rutas más cortas y las muestra en un mapa interactivo desde una interfaz gráfica.
 - 🔗 [Repositorio](https://github.com/gabytv1/Sistema-de-Rutas-de-Emergencia-floydwharsall)
 
+### 💊 MedifitApp
+
+- **Problema o necesidad que resuelve:** Llevar un control organizado de la salud personal y familiar es difícil cuando las medicinas, citas y rutinas están dispersas. MedifitApp las reúne en una app Android que guarda los datos en el propio dispositivo, sin internet ni nube.
+- **Tecnologías utilizadas:** Java, Android (SDK nativo), XML, patrón MVC, serialización de objetos en archivos `.dat`.
+- **Funcionalidades principales:** Perfiles de usuario independientes, control de medicamentos con stock y alertas cuando se agotan, citas médicas con selección de fecha y hora, directorio de médicos, registro de actividad física y notas de salud.
+- 🔗 [Repositorio](https://github.com/gabytv1/MedifitApp-Proyecto-con-Android-Studio)
+
 ## 🏁 Metas
 
 **🎯 Corto plazo**
