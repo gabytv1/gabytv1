@@ -90,7 +90,12 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 
 ## 🚀 Proyectos destacados
 
-_En construcción._
+### 🚑 Sistema de Rutas de Emergencia
+
+- **Problema o necesidad que resuelve:** En una emergencia, cada minuto cuenta. Este sistema calcula la ruta más corta desde un punto de Ceibos y ESPOL hasta el hospital, la estación de policía o el cuartel de bomberos más cercano.
+- **Tecnologías utilizadas:** Python, Tkinter, Folium, OpenStreetMap, algoritmo de Floyd-Warshall.
+- **Funcionalidades principales:** Descarga la red vial desde OpenStreetMap, la modela como un grafo, aplica Floyd-Warshall para hallar las rutas más cortas y las muestra en un mapa interactivo desde una interfaz gráfica.
+- 🔗 [Repositorio](https://github.com/gabytv1/Sistema-de-Rutas-de-Emergencia-floydwharsall)
 
 ## 🏁 Metas
 
