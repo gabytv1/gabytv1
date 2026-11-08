@@ -58,35 +58,39 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 
 ### Lenguajes de programación
 
-| Lenguaje | Para qué lo he usado | Estado |
-|----------|----------------------|--------|
-| **Python** | Resolver problemas con lógica y algoritmos, y probar ideas rápidamente. | Usado en proyectos del curso |
-| **Java** | Programación orientada a objetos (clases, herencia, polimorfismo) y estructuras de datos. | Usado en proyectos del curso |
-| **C** | Fundamentos de la programación estructurada y de cómo funciona un programa por dentro. | Usado en talleres |
-| **JavaScript** | Dar interactividad a páginas web. | Aplicado en proyectos, afianzando |
+| Lenguaje | Dónde y cómo lo apliqué | Estado |
+|----------|-------------------------|--------|
+| **Python** | En el **Sistema de Rutas de Emergencia** (grafos, Floyd-Warshall e interfaz gráfica) y en el **Asistente Educativo en Go** (analizadores del código). | Aplicado en proyectos |
+| **Java** | En **MedifitApp**: clases, patrón MVC y almacenamiento local con serialización de objetos. | Aplicado en proyectos |
+| **C** | En Programación de sistemas: desarrollo de software de bajo nivel en UNIX/Linux, con interacción directa con el sistema operativo y el hardware. | Usado en talleres |
+| **JavaScript** | Dar interactividad a páginas web. | Afianzando |
 | **TypeScript** | Escribir JavaScript con tipos, para que el código sea más seguro y fácil de mantener. | 🌱 En aprendizaje |
-| **Go** | Aprendiendo los fundamentos del lenguaje. | 🌱 En aprendizaje |
+| **Go** | Escribí algoritmos de prueba para el **Asistente Educativo**, que analiza código en este lenguaje, y sigo aprendiendo sus fundamentos. | 🌱 En aprendizaje |
 
 ### Lenguajes de marcado, estilos y consulta
 
-| Lenguaje | Para qué lo he usado | Estado |
-|----------|----------------------|--------|
-| **HTML** (marcado) | Estructurar el contenido de páginas web. | Usado en proyectos del curso |
-| **CSS** (estilos) | Dar estilo y diseño adaptable a páginas web con Flexbox y Grid. | Aplicado en proyectos, afianzando |
-| **SQL** (consulta) | Crear y consultar bases de datos relacionales en MySQL: tablas, relaciones y consultas. | Usado en proyectos del curso |
+| Lenguaje | Dónde y cómo lo apliqué | Estado |
+|----------|-------------------------|--------|
+| **HTML** (marcado) | Estructura de las páginas del sitio de la **Biblioteca de las Artes**, con etiquetas semánticas. | Aplicado en proyectos |
+| **CSS** (estilos) | Estilos y diseño adaptable del sitio de la **Biblioteca de las Artes**. | Aplicado en proyectos, afianzando |
+| **SQL** (consulta) | Crear y consultar bases de datos relacionales en MySQL: tablas, relaciones y consultas. | Usado en prácticas del curso |
 
 ### Herramientas, frameworks y librerías
 
-| Herramienta | Para qué la uso | Estado |
-|-------------|-----------------|--------|
-| **Git y GitHub** | Control de versiones y repositorios de mis proyectos. | Uso frecuente |
+| Herramienta | Dónde y cómo la apliqué | Estado |
+|-------------|-------------------------|--------|
+| **Git y GitHub** | Control de versiones y trabajo en equipo en todos mis proyectos, con commits y repositorios compartidos. | Uso frecuente |
 | **React** | Biblioteca de JavaScript para construir interfaces web con componentes. | 🌱 En aprendizaje |
-| **MySQL** | Bases de datos relacionales. | Usado en proyectos del curso |
-| **Figma** | Prototipos de interfaces antes de programarlas. | Usado en proyectos del curso |
+| **MySQL** | Bases de datos relacionales. | Usado en prácticas del curso |
+| **Figma** | Prototipo interactivo de alta fidelidad de **Mi Alumni**. | Aplicado en proyectos |
 | **VS Code** | Entorno para escribir y depurar código. | Uso frecuente |
-| **Android Studio** | Entorno de desarrollo para aplicaciones Android. | Usado en el curso |
-| **GitHub Pages** | Publicar sitios web estáticos. | Usado en el curso |
-| **Linux y terminal** | Trabajar desde la línea de comandos. | Usado en el curso |
+| **Android Studio** | Desarrollo de **MedifitApp**. | Aplicado en proyectos |
+| **GitHub Pages** | Publicación del sitio de la **Biblioteca de las Artes**. | Aplicado en proyectos |
+| **Linux y terminal** | Ejecutar y probar programas desde la línea de comandos en Programación de sistemas. | Usado en el curso |
+| **Tkinter** | Interfaz gráfica del **Sistema de Rutas de Emergencia**. | Aplicado en proyectos |
+| **Folium** | Mapas interactivos del **Sistema de Rutas de Emergencia**. | Aplicado en proyectos |
+| **PLY** | Construcción de los analizadores del **Asistente Educativo**. | Aplicado en proyectos |
+| **unittest** | Pruebas automáticas del **Asistente Educativo**. | Aplicado en proyectos |
 
 ## 🚀 Proyectos destacados
 
