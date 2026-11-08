@@ -138,13 +138,11 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 
 ## 📫 Contacto
 
-| Canal | Enlace |
-|-------|--------|
-| 💼 LinkedIn | [Mi perfil de LinkedIn](https://www.linkedin.com/in/f%C3%A1tima-torres-68475230b) |
-| 📧 Correo institucional | [fativera@espol.edu.ec](mailto:fativera@espol.edu.ec) |
-| 📍 Ubicación | Milagro, Ecuador |
+[![LinkedIn: Fátima Torres](https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-F%C3%A1tima_Torres-C8B3FF?style=for-the-badge&labelColor=FFE4F1)](https://www.linkedin.com/in/f%C3%A1tima-torres-68475230b)
 
-| [![LinkedIn](https://img.shields.io/badge/%F0%9F%92%9C_Conectemos-LinkedIn-C8B3FF?style=flat&labelColor=FFE4F1)](https://www.linkedin.com/in/f%C3%A1tima-torres-68475230b) [![Correo](https://img.shields.io/badge/%F0%9F%92%8C_Escr%C3%ADbeme-fativera%40espol.edu.ec-C8B3FF?style=flat&labelColor=FFE4F1)](mailto:fativera@espol.edu.ec) |
+[![Correo institucional: fativera@espol.edu.ec](https://img.shields.io/badge/%F0%9F%92%8C_Correo-fativera%40espol.edu.ec-C8B3FF?style=for-the-badge&labelColor=FFE4F1)](mailto:fativera@espol.edu.ec)
+
+![Ubicación: Milagro, Ecuador](https://img.shields.io/badge/%F0%9F%93%8D_Ubicaci%C3%B3n-Milagro%2C_Ecuador-C8B3FF?style=for-the-badge&labelColor=FFE4F1)
 
 *Disponible para prácticas preprofesionales, primer empleo y proyectos freelance.*
 
