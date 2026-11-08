@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=160&section=header)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:C8B3FF,60:C8B3FF,100:A8E6CF&height=160&section=header)
 
 # Hola, soy Fátima Torres 👋
 
@@ -8,7 +8,7 @@
 
 *Aprendiendo a crear soluciones con tecnología.*
 
----
+![](https://capsule-render.vercel.app/api?type=rect&color=C8B3FF&height=4)
 
 ## 🌱 Sobre mí
 
@@ -41,7 +41,7 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 - **Español:** nativo
 - **Inglés:** B2 (intermedio alto)
 
----
+![](https://capsule-render.vercel.app/api?type=rect&color=C8B3FF&height=4)
 
 ## 🎯 Áreas de interés
 
@@ -60,7 +60,7 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 - Aprender a **desplegar** aplicaciones y a trabajar con contenedores.
 - Profundizar en **seguridad de aplicaciones web**.
 
----
+![](https://capsule-render.vercel.app/api?type=rect&color=C8B3FF&height=4)
 
 ## 💻 Tecnologías
 
@@ -100,7 +100,7 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 | **PLY** | Construcción de los analizadores del **Asistente Educativo**. | Aplicado en proyectos |
 | **unittest** | Pruebas automáticas del **Asistente Educativo**. | Aplicado en proyectos |
 
----
+![](https://capsule-render.vercel.app/api?type=rect&color=C8B3FF&height=4)
 
 ## 🚀 Proyectos destacados
 
@@ -140,25 +140,7 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 - **Funcionalidades principales:** Analiza código en Go y detecta errores léxicos, sintácticos y semánticos. Explica cada error con un mensaje pensado para principiantes y recomienda cómo corregirlo.
 - 🔗 [Repositorio](https://github.com/gabytv1/Asistente-Educativo-de-Errores-para-Principiantes-en-Go)
 
----
-
-## 🏁 Metas
-
-**🎯 Corto plazo**
-- Realizar prácticas preprofesionales y ganar experiencia real.
-- Avanzar en Go y React.
-- Sumar proyectos al portafolio con buena documentación.
-
-**🧭 Mediano plazo**
-- Culminar Ingeniería en Computación en la ESPOL.
-- Conseguir mi primer empleo o proyectos freelance en desarrollo de software.
-- Contribuir a proyectos colaborativos.
-
-**🌄 Largo plazo**
-- Cursar una maestría.
-- Desarrollar aplicaciones full stack de gran impacto.
-
----
+![](https://capsule-render.vercel.app/api?type=rect&color=C8B3FF&height=4)
 
 ## 📫 Contacto
 
@@ -170,4 +152,4 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 
 *Disponible para prácticas preprofesionales, primer empleo y proyectos freelance.*
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=120&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:C8B3FF,60:C8B3FF,100:A8E6CF&height=120&section=footer)
