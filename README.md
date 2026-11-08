@@ -1,12 +1,6 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=0:C8B3FF,60:C8B3FF,100:A8E6CF&height=160&section=header)
+![Fátima Torres, estudiante de Ingeniería en Computación, Milagro, Ecuador](https://capsule-render.vercel.app/api?type=waving&color=0:C8B3FF,55:C8B3FF,100:A8E6CF&height=280&section=header&text=F%C3%A1tima+Torres&fontSize=60&fontColor=3B2A6B&fontAlign=50&fontAlignY=34&desc=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n+%C2%B7+Milagro%2C+Ecuador&descSize=26&descAlign=50&descAlignY=56&animation=twinkling)
 
-# Hola, soy Fátima Torres 👋
-
-**Estudiante de Ingeniería en Computación** en la Escuela Superior Politécnica del Litoral (ESPOL)
-
-📍 Milagro, Ecuador
-
-*Aprendiendo a crear soluciones con tecnología.*
+![Aprendiendo a crear soluciones con tecnología.](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=7F5AF0&vCenter=true&repeat=false&width=520&height=40&lines=Aprendiendo+a+crear+soluciones+con+tecnolog%C3%ADa)
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=C8B3FF&height=4)
 
@@ -140,7 +134,7 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 - **Funcionalidades principales:** Analiza código en Go y detecta errores léxicos, sintácticos y semánticos. Explica cada error con un mensaje pensado para principiantes y recomienda cómo corregirlo.
 - 🔗 [Repositorio](https://github.com/gabytv1/Asistente-Educativo-de-Errores-para-Principiantes-en-Go)
 
-![](https://capsule-render.vercel.app/api?type=rect&color=C8B3FF&height=4)
+---
 
 ## 📫 Contacto
 
