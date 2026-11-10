@@ -47,13 +47,6 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 - 🛠️ **Buenas prácticas de ingeniería de software:** control de versiones, código limpio, documentación y trabajo colaborativo.
 - 📚 **Aprendizaje continuo:** quiero seguir capacitándome, aprender nuevas tecnologías (ahora Go, React y TypeScript) y, más adelante, estudiar una maestría.
 
-### 🔭 Lo que quiero explorar a futuro
-
-- Crear y consumir **APIs REST**.
-- Escribir **pruebas automáticas** para mi código.
-- Aprender a **desplegar** aplicaciones y a trabajar con contenedores.
-- Profundizar en **seguridad de aplicaciones web**.
-
 ![](https://capsule-render.vercel.app/api?type=rect&color=C8B3FF&height=4)
 
 ## 💻 Tecnologías
@@ -134,7 +127,7 @@ Estoy buscando **prácticas preprofesionales**, un **primer empleo** o proyectos
 - **Funcionalidades principales:** Analiza código en Go y detecta errores léxicos, sintácticos y semánticos. Explica cada error con un mensaje pensado para principiantes y recomienda cómo corregirlo.
 - 🔗 [Repositorio](https://github.com/gabytv1/Asistente-Educativo-de-Errores-para-Principiantes-en-Go)
 
----
+![](https://capsule-render.vercel.app/api?type=rect&color=C8B3FF&height=4)
 
 ## 📫 Contacto
 
